@@ -38,6 +38,6 @@ A aplicação tem como objetivo permitir o cadastro e a visualização de cursos
 Os cenários de teste foram elaborados com foco na verificação do funcionamento dos recursos apresentados, incluindo o fluxo principal de cadastro, a exibição dos cursos na listagem e alguns cenários negativos relacionados ao envio de dados incompletos ou inesperados. Como a aplicação não apresenta regras de negócio ou requisitos claramente definidos, aspectos como padrões específicos de formatação ou validações mais complexas não foram considerados em profundidade, priorizando-se a análise do comportamento geral da aplicação e a identificação de possíveis falhas no funcionamento das funcionalidades disponíveis.
 
 
-## Link da planilha de testes e das evidências
+## Link da planilha de testes, das evidências e dos bugs
 [Cenários e casos de teste documentados-DESAFIO-QA-BEEDOO-2026.xlsx](https://docs.google.com/spreadsheets/d/1b898R_7y1jTESvfdtXYKTyAUnT3z74vI/edit?gid=142732988#gid=142732988)
 
